@@ -1,0 +1,7 @@
+{"format": "zugferd", "language": "de",
+ "invoice": {"number": "RE-2026-0001", "issue_date": "2026-09-08",
+  "seller": {"name": "Beispiel GmbH", "vat_id": "DE123456789", "email": "rechnung@beispiel.de", "phone": "+49 30 1234567", "address": {"street": "Musterstr. 1", "postcode": "10115", "city": "Berlin"}},
+  "buyer": {"name": "Kunde AG", "vat_id": "DE987654321", "email": "ap@kunde.de", "address": {"street": "Kundenweg 9", "postcode": "80331", "city": "München"}},
+  "buyer_reference": "04011000-12345-67",
+  "lines": [{"description": "Beratung September", "quantity": "10", "unit": "HUR", "unit_price": "120.00"}, {"description": "Fahrtkosten", "quantity": "1", "unit": "C62", "unit_price": "85.50"}],
+  "payment": {"iban": "DE02120300000000202051", "bic": "BYLADEM1001", "due_date": "2026-09-22", "terms": "Zahlbar innerhalb von 14 Tagen ohne Abzug."}}}
