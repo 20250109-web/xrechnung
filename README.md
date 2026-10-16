@@ -3,7 +3,7 @@
 Generate, validate and read German e-invoices (**XRechnung 3.0**, **ZUGFeRD 2.x / Factur-X**, EN 16931) with one REST API. Every generated document is checked by the **official KoSIT validator** before you receive it.
 
 - Base URL: `https://xrechnung.dev`
-- Free: 50 documents/month per IP, no sign-up. Paid keys (`X-Api-Key`): Developer €19/month (2,000), Business €59/month (20,000) → https://xrechnung.dev/#pricing
+- Free: 10 documents/month per IP, no sign-up. Paid keys (`X-Api-Key`): Starter €19/month (200), Pro €40 (1,000), Business €99 (5,000), Unlimited €499 → https://xrechnung.dev/preise/
 - Docs: https://xrechnung.dev/api/ · OpenAPI: https://xrechnung.dev/docs · Guides (DE): https://xrechnung.dev/ratgeber/
 
 | Endpoint | Purpose |
